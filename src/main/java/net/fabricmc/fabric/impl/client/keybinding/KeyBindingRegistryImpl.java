@@ -24,7 +24,7 @@ import com.google.common.collect.Lists;
 import it.unimi.dsi.fastutil.objects.ReferenceArrayList;
 
 import net.minecraft.client.MinecraftClient;
-import net.minecraft.client.option.KeyBinding;
+import net.minecraft.client.options.KeyBinding;
 
 import net.fabricmc.fabric.mixin.client.keybinding.KeyBindingAccessor;
 
